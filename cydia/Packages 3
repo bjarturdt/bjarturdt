@@ -1,7 +1,7 @@
 Package: com.popcorntimetv.popcorntime.ios
 Version: 3.2-20
 Section: Applications
-Maintainer: Bjarturdt
+Maintainer: Diatrus
 Depends: firmware (>= 9.0)
 Architecture: iphoneos-arm
 Filename: debs//com.popcorntimetv.popcorntime.ios_3.2-20.deb

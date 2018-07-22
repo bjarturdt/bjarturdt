@@ -1,7 +1,7 @@
 Package: com.diatrus.tvbrowser
 Version: 3.0-3000
 Section: Applications
-Maintainer: Diatrus
+Maintainer: Bjarturdt
 Pre-Depends: cy+cpu.arm64
 Depends: firmware (>= 9.0), mobilesubstrate
 Architecture: appletvos-arm64
@@ -15,7 +15,7 @@ Author: jvanakker
 Package: com.popcorntimetv.popcorntime.tvos
 Version: 3.2-20
 Section: Applications
-Maintainer: Diatrus
+Maintainer: Bjarturdt
 Pre-Depends: cy+cpu.arm64
 Depends: firmware (>= 10.2), mobilesubstrate
 Architecture: appletvos-arm64

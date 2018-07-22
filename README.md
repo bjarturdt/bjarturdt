@@ -1,2 +1,2 @@
-# diatrus.github.io
+# bjarturdt.github.io
 Simple Cydia/nitoTV repos
